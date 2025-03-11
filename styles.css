@@ -26,6 +26,7 @@ body {
     position: fixed; /* Fixes the header at the top */
     top: 0;
     left: 0;
+
     width: 100%;
     z-index: 1000; /* Keeps the header above other sections */
     box-shadow: 0 4px 15px rgba(0, 255, 204, 0.3); /* Soft shadow for a sleek look */
